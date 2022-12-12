@@ -1,0 +1,12 @@
+body {
+  background-color: 0;
+  font-size: 39px;
+  color: royalblue;
+}
+
+.test h1 {
+  color: red;
+}
+.test p {
+  color: aquamarine;
+}
